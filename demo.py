@@ -1,5 +1,5 @@
 import time
-afasfaf
+
 
 print("hello world")
 print("hey")
@@ -7,4 +7,4 @@ print("hey")
 print("第一次补录一下")
 
 
-print（"补录第三次"）
+print("补录第三次")
